@@ -33,3 +33,5 @@ Then change into the folder the git clone command will create:
 And finally install the dependencies:
 
 `npm install`
+
+[![Run on Repl.it](https://repl.it/badge/github/simonholmes/getting-MEAN)](https://repl.it/github/simonholmes/getting-MEAN)
